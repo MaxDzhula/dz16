@@ -1,0 +1,7 @@
+Prime: 11
+Prime: 23
+Count: 7
+Sum: 75
+Average: 10.7143
+Max: 23 Min: 1
+Even: 2 Odd: 5
